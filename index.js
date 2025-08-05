@@ -62,7 +62,7 @@ client.on('message', async (msg) => {
   }
 });
 
-// 🌐 Optional dummy server (for Railway or keep-alive)
+
 const app = express();
 const PORT = process.env.PORT || 3000;
 
