@@ -1,2 +1,3 @@
-2025/08/06-09:31:40.845 3294 Creating DB E:\POC_report_generator\.wwebjs_auth\session\Default\Local Storage\leveldb since it was missing.
-2025/08/06-09:31:40.909 3294 Reusing MANIFEST E:\POC_report_generator\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2025/08/06-09:38:05.323 2a90 Reusing MANIFEST E:\POC_report_generator\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2025/08/06-09:38:05.361 2a90 Recovering log #3
+2025/08/06-09:38:05.362 2a90 Reusing old log E:\POC_report_generator\.wwebjs_auth\session\Default\Local Storage\leveldb/000003.log 
