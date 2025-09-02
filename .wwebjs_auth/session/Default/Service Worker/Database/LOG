@@ -1,3 +1,2 @@
-2025/08/10-10:11:06.230 5ea8 Reusing MANIFEST E:\POC_report_generator\.wwebjs_auth\session\Default\Service Worker\Database/MANIFEST-000001
-2025/08/10-10:11:06.231 5ea8 Recovering log #3
-2025/08/10-10:11:06.232 5ea8 Reusing old log E:\POC_report_generator\.wwebjs_auth\session\Default\Service Worker\Database/000003.log 
+2025/09/02-22:20:44.436 1c34 Creating DB E:\POC_report_generator\.wwebjs_auth\session\Default\Service Worker\Database since it was missing.
+2025/09/02-22:20:44.450 1c34 Reusing MANIFEST E:\POC_report_generator\.wwebjs_auth\session\Default\Service Worker\Database/MANIFEST-000001
